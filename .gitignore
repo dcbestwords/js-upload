@@ -8,9 +8,8 @@
 *.esproj  
 *.sublime-project  
 *.sublime-workspace  
-nbproject  
-thumbs.db  
 *.iml 
 
 upload-server/node_modules/
-upload-server/public/upload/
+upload-server/public/upload/*
+!upload-server/public/upload/.gitkeep
